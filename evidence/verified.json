@@ -1,0 +1,70 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "address": "0xc78F2f9237860308e3D0F9d2219f51e59329265a",
+  "explorer": "https://explorer-studio.genlayer.com/address/0xc78F2f9237860308e3D0F9d2219f51e59329265a",
+  "account": "0x67Da51Fd9AC1d52F34F5d01d06da8548979fC514",
+  "transactions": [
+    {
+      "action": "deploy",
+      "hash": "0xb4dac6ab66a0c73837ed8dcc928b992c768b0b85f4240ddf84c832efc3ded556",
+      "status": "FINALIZED",
+      "consensus_result": "MAJORITY_AGREE",
+      "leader_only": false,
+      "executions": [
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "votes": {
+        "0x23A15A452F19D1B616276fedC5B8B51d69082959": "idle",
+        "0x240d2d7c8DF220110c26cfFFC532479319Cca0dC": "idle",
+        "0x534af64FFB6796Bc69aBf4C26c50788F1fFAfe56": "agree",
+        "0x5e880d85a70De78dDEf86236d57c42e73F560615": "agree",
+        "0x813890bC5bEDEB4F5437570962379F04738F18Cb": "agree"
+      }
+    },
+    {
+      "action": "submit",
+      "hash": "0x17357281fa246ab57db56a78fb380a0a684045bc198734acc2786a2c3e9cdfcf",
+      "status": "FINALIZED",
+      "consensus_result": "MAJORITY_AGREE",
+      "leader_only": false,
+      "executions": [
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "votes": {
+        "0x21e4F7ba6Ec0fbf70C019fbc0F9A797c3ed1F969": "agree",
+        "0x22Eda431B7fBC1216baE3b077a78c973a8719c58": "agree",
+        "0x534af64FFB6796Bc69aBf4C26c50788F1fFAfe56": "agree",
+        "0x5744305308D62592B7De585e1999c4Ea51E03C29": "agree",
+        "0xBE58b43DF1d991e054F743Cc5571dD7029F3B888": "idle"
+      }
+    },
+    {
+      "action": "evaluate",
+      "hash": "0xbb761816f08e13b87d2d9afd20a7b63509f308b008b838129f1c11186eeffb0c",
+      "status": "FINALIZED",
+      "consensus_result": "MAJORITY_AGREE",
+      "leader_only": false,
+      "executions": [
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "votes": {
+        "0x240d2d7c8DF220110c26cfFFC532479319Cca0dC": "idle",
+        "0x4eeaD269a60bB89c98a23c1BCd0bd101CafD90E0": "agree",
+        "0x5744305308D62592B7De585e1999c4Ea51E03C29": "idle",
+        "0xBE58b43DF1d991e054F743Cc5571dD7029F3B888": "agree",
+        "0xE74a9088aD4d6dBf3C8cABcC0B91072d2a8c8afa": "agree"
+      }
+    }
+  ],
+  "source_sha256": "9ed7a6f39603cf2e195bfdc66a0786f372aae5a633e82f04042fcd5c672731bb",
+  "source_matches": true,
+  "state": {
+    "head": "b33d5bd4b62d8a051131101a94af2f803519b0a4b25e0087de884dae06c8cd0c",
+    "pending": false,
+    "submissions": 1
+  }
+}

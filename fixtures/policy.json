@@ -1,0 +1,24 @@
+{
+  "equipment_id": "PRESSURE-P17",
+  "unit": "kPa",
+  "scale": 1000,
+  "lab": "0x67Da51Fd9AC1d52F34F5d01d06da8548979fC514",
+  "lab_name": "Demo Calibration Lab",
+  "procedure": "CP-17: compare at 0, 50 and 100 kPa after 15-minute warmup; record uncertainty.",
+  "maintenance_rule": "Document inspection with no leaks or unresolved defects.",
+  "max_age_seconds": 31536000,
+  "points": [
+    {
+      "reference": 0,
+      "tolerance": 500
+    },
+    {
+      "reference": 50000,
+      "tolerance": 500
+    },
+    {
+      "reference": 100000,
+      "tolerance": 500
+    }
+  ]
+}

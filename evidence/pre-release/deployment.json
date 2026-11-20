@@ -1,0 +1,21 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "address": "0xA7ea3e22B9aE6131142F80D0B7055e051D57A5ab",
+  "explorer": "https://explorer-studio.genlayer.com/address/0xA7ea3e22B9aE6131142F80D0B7055e051D57A5ab",
+  "account": "0x67Da51Fd9AC1d52F34F5d01d06da8548979fC514",
+  "transactions": [
+    {
+      "action": "deploy",
+      "hash": "0xa2da285b6dffe2b63dfb8c93b4116e5224896cca3073cf29c467bb216204f2b1"
+    },
+    {
+      "action": "submit",
+      "hash": "0x7d3655244a69c1c27f4dc2412678ef1e2038ad87d16e87cc6eab1ae595cc2bb3"
+    },
+    {
+      "action": "evaluate",
+      "hash": "0xfa3f9805011649f60e76c6607de51053449ec0116428e6412c37b8910100b339"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "hash": "0x21012cfbce6ab95e9fd493492427e92ff26d2a9603f1f091fe8dcbd61fe0f114",
+  "status": "FINALIZED",
+  "result": "MAJORITY_DISAGREE",
+  "leaderOnly": false,
+  "rotations": 3,
+  "votes": {
+    "0x29A864a96A51c4e816ef65E95f18F0dfF2165569": "idle",
+    "0x3720CfC92ACB431F215673A7b5F315B5efe1A4D6": "agree",
+    "0x7D2dE07A26B4Da7164210364e6F09BDA31F597Ba": "disagree",
+    "0x91d3032d39177dD187665b345954fA5809D8a574": "disagree",
+    "0xAfA5B76d8c2b976097406893b59C499b5D92D878": "disagree"
+  }
+}

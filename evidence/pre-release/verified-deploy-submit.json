@@ -1,0 +1,48 @@
+{
+  "network": "studionet",
+  "chainId": 61999,
+  "address": "0xA7ea3e22B9aE6131142F80D0B7055e051D57A5ab",
+  "explorer": "https://explorer-studio.genlayer.com/address/0xA7ea3e22B9aE6131142F80D0B7055e051D57A5ab",
+  "account": "0x67Da51Fd9AC1d52F34F5d01d06da8548979fC514",
+  "transactions": [
+    {
+      "action": "deploy",
+      "hash": "0xa2da285b6dffe2b63dfb8c93b4116e5224896cca3073cf29c467bb216204f2b1",
+      "status": "FINALIZED",
+      "executions": [
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "votes": {
+        "0x5Bf68b9b661C86D6083B2F67faf19fF649a8a203": "agree",
+        "0x8D9E52A3c9Ad95D2Be9987AD2C3919F5460DDc3e": "idle",
+        "0x9e716966Fbc31a155250000CfC6C5E0aefbA9a95": "agree",
+        "0xbf44ED2c27E8Cc6b36FBF6890B8fDAD3b220cC88": "agree",
+        "0xf66D41686dDa4B13E0B29Bf432C7E6F1C008d639": "idle"
+      }
+    },
+    {
+      "action": "submit",
+      "hash": "0x7d3655244a69c1c27f4dc2412678ef1e2038ad87d16e87cc6eab1ae595cc2bb3",
+      "status": "FINALIZED",
+      "executions": [
+        "SUCCESS",
+        "SUCCESS"
+      ],
+      "votes": {
+        "0x70C9Ed8761ac32887e536D03657bfADAD436210F": "agree",
+        "0x7D2dE07A26B4Da7164210364e6F09BDA31F597Ba": "agree",
+        "0x87DD12658711db28B41C1fBB516236088D214fAD": "idle",
+        "0x8D9E52A3c9Ad95D2Be9987AD2C3919F5460DDc3e": "agree",
+        "0xc3Acc646761d7BC43a47ccEB1F60E7078B1d51Fc": "idle"
+      }
+    }
+  ],
+  "source_sha256": "aba48ebf0f0fc5ba7ee6b9e2d9012c26985d32911f8167c6ab4625ab270130f7",
+  "source_matches": true,
+  "state": {
+    "head": "0000000000000000000000000000000000000000000000000000000000000000",
+    "pending": true,
+    "submissions": 1
+  }
+}

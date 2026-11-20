@@ -1,0 +1,22 @@
+{
+  "identity": {
+    "status": "SUPPORTED",
+    "quote": "Certificate DEMO-001: PRESSURE-P17, laboratory Demo Calibration Lab."
+  },
+  "procedure": {
+    "status": "SUPPORTED",
+    "quote": "CP-17 performed: 15-minute warmup then comparison at 0, 50 and 100 kPa."
+  },
+  "traceability": {
+    "status": "SUPPORTED",
+    "quote": "Reference STD-42, SI traceability certificate REF-42 valid until 1830000000."
+  },
+  "maintenance": {
+    "status": "SUPPORTED",
+    "quote": "Inspection and maintenance: no leaks or unresolved defects."
+  },
+  "results": {
+    "status": "SUPPORTED",
+    "quote": "(0, 100, 50); (50000, 50100, 50); (100000, 100100, 50)."
+  }
+}

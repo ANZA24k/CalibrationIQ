@@ -1,0 +1,25 @@
+{
+  "equipment_id": "PRESSURE-P17",
+  "certificate_id": "DEMO-001",
+  "issued_at": 1794960000,
+  "expires_at": 1826496000,
+  "measurements": [
+    {
+      "reference": 0,
+      "measured": 100,
+      "uncertainty": 50
+    },
+    {
+      "reference": 50000,
+      "measured": 50100,
+      "uncertainty": 50
+    },
+    {
+      "reference": 100000,
+      "measured": 100100,
+      "uncertainty": 50
+    }
+  ],
+  "evidence": "SYNTHETIC DEMONSTRATION: no real instrument was calibrated.\nCertificate DEMO-001: PRESSURE-P17, laboratory Demo Calibration Lab.\nIssued Unix 1794960000; expires Unix 1826496000. Scale 1000 integer units per kPa.\nCP-17 performed: 15-minute warmup then comparison at 0, 50 and 100 kPa.\nReference STD-42, SI traceability certificate REF-42 valid until 1830000000.\nInspection and maintenance: no leaks or unresolved defects.\nResults (reference, measured, uncertainty) in scaled kPa integers:\n(0, 100, 50); (50000, 50100, 50); (100000, 100100, 50).\n",
+  "evidence_sha256": "3ab621a25f9071d32502158cbe28e28f634883e0cae722fa12e972eabc9bec05"
+}

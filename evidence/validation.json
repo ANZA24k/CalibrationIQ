@@ -1,0 +1,13 @@
+{
+  "tests_passed": 51,
+  "sdk_release": "v0.2.16",
+  "source_sha256": "9ed7a6f39603cf2e195bfdc66a0786f372aae5a633e82f04042fcd5c672731bb",
+  "source_matches_chain": true,
+  "all_three_transactions_finalized_with_consensus": true,
+  "policy_hash_verified": true,
+  "submission_hash_verified": true,
+  "receipt_hash_verified": true,
+  "outcome": "CALIBRATED",
+  "fixture_type": "synthetic",
+  "no_physical_calibration_claim": true
+}
